@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
         })
     }
 
-    fun testUpload(){
+    fun testUpload() {
 
         var i =  1 + 2
 

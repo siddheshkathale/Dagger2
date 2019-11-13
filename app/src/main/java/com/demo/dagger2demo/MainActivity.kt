@@ -38,6 +38,8 @@ class MainActivity : AppCompatActivity() {
 
         var p  = 1 + 1
 
+        var ip = 1 + 2
+
     }
 
 

@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
 
     fun testUpload() {
 
-        var i =  12
+        var i =  24
         var f =  24
 
     }

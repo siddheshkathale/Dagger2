@@ -36,6 +36,8 @@ class MainActivity : AppCompatActivity() {
         var i =  1
         var f =  5
 
+        var ip = 1 + 2
+
     }
 
 
